@@ -8,7 +8,8 @@ export const GlobalStyles = createGlobalStyle`
     --verde: rgb(214,236,10);
     /* --verde:  #186781; */
     --azul: rgb(3,81,255);
-    --fondo: rgb(239,228,176);
+    --fondo: rgb(244,244,244);
+    /* --fondo: white; */
 
   } 
 

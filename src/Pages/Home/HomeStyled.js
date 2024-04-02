@@ -7,12 +7,18 @@ flex-direction: column;
 align-items: center;
 justify-content:center;
 /* height:100vh; */
-margin:1rem;
+/* margin:1rem; */
 /* padding:2rem; */
 /* background-color:red; */
 `;
 export const ImgPrincipal=styled.div`
 
+position:static;
+/* top:-500px; */
+img{
+  /* height:200px; */
+  width:100vw;
+}
 `;
 export const SectionContainer=styled.div`
 display:flex;

@@ -2,15 +2,15 @@ import React from 'react'
 import { ClientesContarner, HomeContainer, ImagenSection, ImgPrincipal, SectionContainer, SectionStyled } from './HomeStyled'
 import proyectos from '../../media/proyectos.png'
 import servicios from '../../media/servicios.png'
-import paneles from '../../media/paneles.jpeg'
+import portada3 from '../../media/portada3.png'
 
 const Home = () => {
     return (
         <>
             <HomeContainer>
                 <ImgPrincipal>
-                    {/* <img src={paneles} alt="" /> */}
-                    <h2>ACA VAN FOTOS DE IMAGENES DE PANELES O PROYECTOS</h2>
+                    <img src={portada3} alt="" />
+                    {/* <h2>ACA VAN FOTOS DE IMAGENES DE PANELES O PROYECTOS</h2> */}
                 </ImgPrincipal>
                 <SectionContainer>
 
