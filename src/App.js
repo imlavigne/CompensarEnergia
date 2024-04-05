@@ -19,9 +19,9 @@ function App() {
       </a>
 
      </WhatssapLogoStyled>
-     {/* <Home/> */}
+     
      <Routes/>
-     {/* <Contacto/> */}
+     
      <Footer/>
     </div>
   );

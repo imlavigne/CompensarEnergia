@@ -21,9 +21,14 @@ const Footer = () => {
                 </a>
                
                 <LogoInfo>
-                <BsFillTelephoneFill /><p> 02342472604</p>
+                <BsFillTelephoneFill />
+                <a href="https://api.whatsapp.com/send?phone=542342472604&text=Hola, requiero información sobre sus servicios. " class="whatsapp">
+
+                <FaWhatsapp /></a>
+                <p> 02342472604</p>
                 </LogoInfo>
                 <LogoInfo>
+                <BsFillTelephoneFill />
             <a href="https://api.whatsapp.com/send?phone=541157410595&text=Hola, requiero información sobre sus servicios. " class="whatsapp">
 
             <FaWhatsapp /></a>
