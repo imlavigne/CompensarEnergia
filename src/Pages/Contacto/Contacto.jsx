@@ -37,14 +37,14 @@ const Contacto = () => {
               <p1>compensarenergia@gmail.com</p1>
               </a>
             </ContactoItemStyled>
-            <ContactoItemStyled>
+            {/* <ContactoItemStyled>
               <p>Telefono :</p>
              
               <p1>02342472604 / 01157410595</p1>
               
-            </ContactoItemStyled>
+            </ContactoItemStyled> */}
             <ContactoItemStyled>
-              <p>Whatssapp :</p>
+              <p>Telefono/Whatssapp :</p>
             
               <a href="https://api.whatsapp.com/send?phone=542342472604&text=Hola, requiero información sobre sus servicios. " class="whatsapp">
               <p1>02342472604 /</p1></a>
