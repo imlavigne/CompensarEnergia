@@ -11,20 +11,23 @@ justify-content:center;
 export const ContactoStyled = styled.div `
 display:flex;
 /* cambiar este flex direction para colocar la info y el form uno a lado del otro */
-flex-direction:column; 
+flex-direction:row; 
 color:black;
 align-items:center;
 justify-content:center;
+/* background-color:blue; */
 `;
 
 export const ContactoInfoStyled = styled.div`
 display:flex;
 flex-direction:column;
 align-items:baseline;
-justify-content:center;
+justify-content:space-around;
 /* background-color:red; */
+height:100%;
 padding:0px;
-/* margin:20px; */
+margin:0 auto;
+gap:1rem;
 `;
 export const ContactoItemStyled = styled.div`
 display:flex;

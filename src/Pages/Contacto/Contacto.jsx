@@ -57,7 +57,7 @@ const Contacto = () => {
               <p>Direccion:
             
              <a href='https://maps.app.goo.gl/5ppzgccQdNCYnKpW9'>
-             <p1> Coronel del Busto 1355 ,Bragado </p1>
+             <p1> Coronel del Busto 1355 ,Bragado, Pcia de Buenos Aires </p1>
              </a>
              </p>
             </ContactoItemStyled>
